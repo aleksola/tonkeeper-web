@@ -114,7 +114,8 @@ export const App: FC<PropsWithChildren> = () => {
                                     <HeaderGlobalStyle />
                                     <FooterGlobalStyle />
                                     <SybHeaderGlobalStyle />
-                                    <GlobalListStyle />
+                                    <GlobalListStyle
+ />
                                     <Loader />
                                     <UnlockNotification sdk={sdk} />
                                 </UserThemeProvider>
