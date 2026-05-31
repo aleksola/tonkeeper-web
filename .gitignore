@@ -7,7 +7,7 @@ tmp
 lib
 
 # dependencies
-node_modules
+-  node_modules@aleksola 
 
 # IDEs and editors
 /.idea
